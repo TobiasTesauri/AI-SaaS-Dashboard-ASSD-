@@ -1,0 +1,12 @@
+
+services:
+  - type: web
+    name: ai-saas-api
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+    autoDeploy: true
