@@ -66,9 +66,8 @@ Open [http://localhost:5173](http://localhost:5173) to view the app.
 
 ---
 
-## 🧑‍🎨 Credits
 
-Made with ❤️ by **Tobias Tesauri**
+by **Tobias Tesauri**
 
 ---
 
